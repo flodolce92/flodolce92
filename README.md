@@ -12,3 +12,6 @@
 ## 🖥️ Design Skills and Tools 🛠️
 [![My Skills](https://skillicons.dev/icons?i=ps,autocad)](https://skillicons.dev)<img src="https://allsoft.ru/upload/programs_pictograms/904/904cd6014d5d8c403ba9ee2ce43cace9.png" width="48" height="48" />
 - **Tools:** Photoshop | AutoCAD | Fusion360
+
+## 42Network Badge
+[![flo-dolc's 42 stats](https://badge.mediaplus.ma/greenbinary/flo-dolc?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
