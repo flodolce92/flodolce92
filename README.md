@@ -7,9 +7,9 @@
 ## 🖥️ Programming Skills and Tools 🛠️
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python,md,bash,html,css,angular,react,mysql)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vim,vscode,git,github,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim,vscode,docker,git,github,stackoverflow)](https://skillicons.dev)
 - **Languages:** C | C++ | Javascript | Typescript | Python | Markdown | Bash | HTML | CSS | Angular | React | MySQL
-- **Tools:** Vim | Visual Studio Code | Git | GitHub | Stack Overflow
+- **Tools:** Vim | Visual Studio Code | Docker | Git | GitHub | Stack Overflow
 
 ## 🖥️ Design Skills and Tools 🛠️
 [![My Skills](https://skillicons.dev/icons?i=ps,autocad)](https://skillicons.dev)<img src="https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" width="48" height="48" />
