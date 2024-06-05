@@ -5,8 +5,8 @@
 - 💞️ I’m looking to learn C programming and improve my social skills working with other students
 
 ## 🖥️ Programming Skills and Tools 🛠️
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,javascript,python,md,bash,html,css,angular,react,vim,vscode,git,github,stackoverflow)](https://skillicons.dev)
-- **Languages:** C | C++ | Javascript | Python | Markdown | Bash | HTML | CSS | Angular | React
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python,md,bash,html,css,angular,react,mysql,vim,vscode,git,github,stackoverflow)](https://skillicons.dev)
+- **Languages:** C | C++ | Javascript | Typescript | Python | Markdown | Bash | HTML | CSS | Angular | React | MySQL
 - **Tools:** Vim | Visual Studio Code | Git | GitHub | Stack Overflow
 
 ## 🖥️ Design Skills and Tools 🛠️
